@@ -33,4 +33,4 @@ The Basketball Score Counter is a basic responsive React application designed fo
 
 ## Live Preview
 
-- You can visit <a href="https://inspiring-cascaron-2889dc.netlify.app/">the live preview</a>
+- You can visit <a href="https://brilliant-cajeta-13f4c5.netlify.app/">the live preview</a>
