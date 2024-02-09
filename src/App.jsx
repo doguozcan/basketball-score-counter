@@ -22,6 +22,8 @@ function App() {
       setMessage('Bravo 👌')
     } else if (score >= 5) {
       setMessage('Good job 👍')
+    } else {
+      setMessage('')
     }
   }, [score])
 
