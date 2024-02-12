@@ -25,6 +25,8 @@ The Basketball Score Counter is a basic responsive React application designed fo
 
 - Clone the repo:
   `git clone https://github.com/doguozcan/basketball-score-counter.git`
+- Navigate to the project directory:
+  `cd basketball-score-counter`
 - Install npm packages
   `npm install`
 - Start the application
