@@ -4,6 +4,10 @@
 
 The Basketball Score Counter is a basic responsive React application designed for basketball enthusiasts and developers. It allows users to track basketball scores dynamically with the ability to increment scores by one, two, or three points. Leveraging Tailwind CSS for its styling, this application serves as an excellent practice tool for refining skills with React's `useState` and `useEffect` hooks, as well as enhancing UI design capabilities with Tailwind CSS.
 
+## Screenshot
+
+![basketball-score-counter](https://github.com/doguozcan/basketball-score-counter/assets/76822280/faa24435-ee8d-4984-8df4-ffc8de6b4197)
+
 ## Features
 
 - **Score Incrementation**: Users can increase their score by 1, 2, or 3 points with the click of a button.
